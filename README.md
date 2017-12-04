@@ -7,3 +7,6 @@ The game was built on top of the Unity LeapMotionSDK Example application. The id
 
 ## Requirement
 - Leap Motion Sensor
+
+## Devpost Link:
+[https://devpost.com/software/leapstart-x1uyrz]
