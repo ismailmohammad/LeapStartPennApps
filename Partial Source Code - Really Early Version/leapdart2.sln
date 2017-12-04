@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leapdart2", "leapdart2.csproj", "{3ECE51E4-EE06-5571-1BF6-383722856509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leapdart2.Editor", "leapdart2.Editor.csproj", "{975AEE93-CA9F-61D3-E470-33B1C3EA1809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ECE51E4-EE06-5571-1BF6-383722856509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECE51E4-EE06-5571-1BF6-383722856509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECE51E4-EE06-5571-1BF6-383722856509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECE51E4-EE06-5571-1BF6-383722856509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975AEE93-CA9F-61D3-E470-33B1C3EA1809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975AEE93-CA9F-61D3-E470-33B1C3EA1809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975AEE93-CA9F-61D3-E470-33B1C3EA1809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975AEE93-CA9F-61D3-E470-33B1C3EA1809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
